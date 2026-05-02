@@ -1,0 +1,44 @@
+# Unity generated files
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+
+# Visual Studio
+.vs/
+*.user
+*.userprefs
+*.sln.docstates
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+
+# Unity Editor
+*.pidb
+*.svd
+*.tmp
+
+# Package manager
+node_modules/
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# Build outputs
+*.exe
+*.dll
+*.apk
+*.aab
