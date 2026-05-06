@@ -1,4 +1,8 @@
-# Unity generated files
+# This .gitignore file should be placed at the root of your Unity project directory
+# Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
+# Recommended: add any editor/OS/tool-specific ignore rules from the Global/ templates as needed.
+# See: https://github.com/github/gitignore/tree/main/Global
+
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
@@ -73,12 +77,16 @@ mono_crash.*
 # Gradle cache
 .gradle/
 
+# Exported generated files
+ExportedObj/
+.consulo/
+
 # Addressables default ignores
 /ServerData
 /[Aa]ssets/StreamingAssets/aa*
 /[Aa]ssets/AddressableAssetsData/link.xml*
-/[Aa]ssets/Addressables_Temp*
 /[Aa]ssets/AddressableAssetsData/*/*.bin*
+/[Aa]ssets/Addressables_Temp*
 
 # Visual Scripting auto-generated files
 /[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db
