@@ -62,7 +62,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Gun\AnimalAI.cs" />
-    <Compile Include="Assets\Scripts\WaterSound.cs" />
     <Compile Include="Assets\Animal\stag\source\Stag\Stag\Deer.cs" />
     <Compile Include="Assets\bearscript\BearIdleState.cs" />
     <Compile Include="Assets\Grass And Flowers Pack 1\AnimalsScripts\Boar.cs" />
