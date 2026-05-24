@@ -23,7 +23,7 @@ public class Death : MonoBehaviour
             if (timeLeft == 1)
             {
                 // Immediately load scene when countdown hits 1
-                SceneManager.LoadScene("SampleScene");
+                SceneManager.LoadScene("main");
                 yield break;
             }
 
